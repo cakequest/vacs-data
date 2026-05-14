@@ -7,7 +7,23 @@ default_call_sources = ["ZVR-KA (SOUTH)"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CZVR_A1_CTR"
+prefixes = ["CZVR"]
+frequency = "132.350"
+facility_type = "CTR"
+default_call_sources = ["ZVR-KA (SOUTH)"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CZVR_CTR"
+prefixes = ["CZVR"]
+frequency = "133.700"
+facility_type = "CTR"
+default_call_sources = ["ZVR-CV"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CZVR_1_CTR"
 prefixes = ["CZVR"]
 frequency = "133.700"
 facility_type = "CTR"
@@ -23,7 +39,23 @@ default_call_sources = ["ZVR-XC"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CZVR_C1_CTR"
+prefixes = ["CZVR"]
+frequency = "134.550"
+facility_type = "CTR"
+default_call_sources = ["ZVR-XC"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CZVR_E_CTR"
+prefixes = ["CZVR"]
+frequency = "125.950"
+facility_type = "CTR"
+default_call_sources = ["ZVR-VE"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CZVR_E1_CTR"
 prefixes = ["CZVR"]
 frequency = "125.950"
 facility_type = "CTR"
@@ -39,7 +71,23 @@ default_call_sources = ["PACIFIC"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CZVR_F1_CTR"
+prefixes = ["CZVR"]
+frequency = "126.700"
+facility_type = "CTR"
+default_call_sources = ["PACIFIC"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CZVR_H_CTR"
+prefixes = ["CZVR"]
+frequency = "128.800"
+facility_type = "CTR"
+default_call_sources = ["ZVR-HD"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CZVR_H1_CTR"
 prefixes = ["CZVR"]
 frequency = "128.800"
 facility_type = "CTR"
@@ -55,7 +103,23 @@ default_call_sources = ["ZVR-NK"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CZVR_K1_CTR"
+prefixes = ["CZVR"]
+frequency = "132.200"
+facility_type = "CTR"
+default_call_sources = ["ZVR-NK"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CZVR_N_CTR"
+prefixes = ["CZVR"]
+frequency = "134.400"
+facility_type = "CTR"
+default_call_sources = ["ZVR-VN"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CZVR_N1_CTR"
 prefixes = ["CZVR"]
 frequency = "134.400"
 facility_type = "CTR"
@@ -71,7 +135,23 @@ default_call_sources = ["ZVR-VS"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CZVR_S1_CTR"
+prefixes = ["CZVR"]
+frequency = "135.250"
+facility_type = "CTR"
+default_call_sources = ["ZVR-VS"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CZVR_W_CTR"
+prefixes = ["CZVR"]
+frequency = "132.900"
+facility_type = "CTR"
+default_call_sources = ["ZVR-VW"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CZVR_W1_CTR"
 prefixes = ["CZVR"]
 frequency = "132.900"
 facility_type = "CTR"
@@ -87,7 +167,23 @@ default_call_sources = ["ZVR-XS"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CZVR_X1_CTR"
+prefixes = ["CZVR"]
+frequency = "133.800"
+facility_type = "CTR"
+default_call_sources = ["ZVR-XS"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CZVR_Y_CTR"
+prefixes = ["CZVR"]
+frequency = "135.500"
+facility_type = "CTR"
+default_call_sources = ["ZVR-NY"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CZVR_Y1_CTR"
 prefixes = ["CZVR"]
 frequency = "135.500"
 facility_type = "CTR"
@@ -103,7 +199,23 @@ default_call_sources = ["ZVR-ZP"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CZVR_Z1_CTR"
+prefixes = ["CZVR"]
+frequency = "133.400"
+facility_type = "CTR"
+default_call_sources = ["ZVR-ZP"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CYQQ_DEP"
+prefixes = ["CYQQ"]
+frequency = "123.700"
+facility_type = "DEP"
+default_call_sources = ["QQ-DEP"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYQQ_1_DEP"
 prefixes = ["CYQQ"]
 frequency = "123.700"
 facility_type = "DEP"
@@ -119,7 +231,23 @@ default_call_sources = ["VR-S-DEP"]
 profile_id = "CYVR"
 
 [[positions]]
+id = "CYVR_1_DEP"
+prefixes = ["CYVR"]
+frequency = "132.300"
+facility_type = "DEP"
+default_call_sources = ["VR-S-DEP"]
+profile_id = "CYVR"
+
+[[positions]]
 id = "CYVR_N_DEP"
+prefixes = ["CYVR"]
+frequency = "126.120"
+facility_type = "DEP"
+default_call_sources = ["VR-N-DEP"]
+profile_id = "CYVR"
+
+[[positions]]
+id = "CYVR_N1_DEP"
 prefixes = ["CYVR"]
 frequency = "126.120"
 facility_type = "DEP"
@@ -135,7 +263,23 @@ default_call_sources = ["LW-APP"]
 profile_id = "CYLW"
 
 [[positions]]
+id = "CYLW_1_APP"
+prefixes = ["CYLW"]
+frequency = "133.500"
+facility_type = "APP"
+default_call_sources = ["LW-APP"]
+profile_id = "CYLW"
+
+[[positions]]
 id = "CYQQ_APP"
+prefixes = ["CYQQ"]
+frequency = "134.100"
+facility_type = "APP"
+default_call_sources = ["QQ-APP"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYQQ_1_APP"
 prefixes = ["CYQQ"]
 frequency = "134.100"
 facility_type = "APP"
@@ -151,7 +295,23 @@ default_call_sources = ["VR-O-APP"]
 profile_id = "CYVR"
 
 [[positions]]
+id = "CYVR_1_APP"
+prefixes = ["CYVR"]
+frequency = "128.600"
+facility_type = "APP"
+default_call_sources = ["VR-O-APP"]
+profile_id = "CYVR"
+
+[[positions]]
 id = "CYVR_L_APP"
+prefixes = ["CYVR"]
+frequency = "133.100"
+facility_type = "APP"
+default_call_sources = ["VR-I-APP"]
+profile_id = "CYVR"
+
+[[positions]]
+id = "CYVR_L1_APP"
 prefixes = ["CYVR"]
 frequency = "133.100"
 facility_type = "APP"
@@ -167,7 +327,23 @@ default_call_sources = ["VR-TML"]
 profile_id = "CYVR"
 
 [[positions]]
+id = "CYVR_T1_APP"
+prefixes = ["CYVR"]
+frequency = "125.200"
+facility_type = "APP"
+default_call_sources = ["VR-TML"]
+profile_id = "CYVR"
+
+[[positions]]
 id = "CYVR_X_APP"
+prefixes = ["CYVR"]
+frequency = "128.600"
+facility_type = "APP"
+default_call_sources = ["VR-ILS-MONITOR"]
+profile_id = "CYVR"
+
+[[positions]]
+id = "CYVR_X1_APP"
 prefixes = ["CYVR"]
 frequency = "128.600"
 facility_type = "APP"
@@ -183,7 +359,23 @@ default_call_sources = ["YJ-APP"]
 profile_id = "CYYJ"
 
 [[positions]]
+id = "CYYJ_1_APP"
+prefixes = ["CYYJ"]
+frequency = "125.450"
+facility_type = "APP"
+default_call_sources = ["YJ-APP"]
+profile_id = "CYYJ"
+
+[[positions]]
 id = "CYBL_F_TWR"
+prefixes = ["CYBL"]
+frequency = "122.000"
+facility_type = "TWR"
+default_call_sources = ["YBL-FSS"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYBL_F1_TWR"
 prefixes = ["CYBL"]
 frequency = "122.000"
 facility_type = "TWR"
@@ -199,7 +391,23 @@ default_call_sources = ["YCD-FSS"]
 profile_id = "CYVR"
 
 [[positions]]
+id = "CYCD_F1_TWR"
+prefixes = ["CYCD"]
+frequency = "122.100"
+facility_type = "TWR"
+default_call_sources = ["YCD-FSS"]
+profile_id = "CYVR"
+
+[[positions]]
 id = "CYCG_F_TWR"
+prefixes = ["CYCG"]
+frequency = "122.100"
+facility_type = "TWR"
+default_call_sources = ["YCG-FSS"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYCG_F1_TWR"
 prefixes = ["CYCG"]
 frequency = "122.100"
 facility_type = "TWR"
@@ -215,7 +423,23 @@ default_call_sources = ["HC-TWR"]
 profile_id = "CYVR"
 
 [[positions]]
+id = "CYHC_1_TWR"
+prefixes = ["CYHC"]
+frequency = "118.400"
+facility_type = "TWR"
+default_call_sources = ["HC-TWR"]
+profile_id = "CYVR"
+
+[[positions]]
 id = "CYKA_F_TWR"
+prefixes = ["CYKA"]
+frequency = "125.700"
+facility_type = "TWR"
+default_call_sources = ["YKA-FSS"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYKA_F1_TWR"
 prefixes = ["CYKA"]
 frequency = "125.700"
 facility_type = "TWR"
@@ -231,7 +455,23 @@ default_call_sources = ["LW-TWR"]
 profile_id = "CYLW"
 
 [[positions]]
+id = "CYLW_1_TWR"
+prefixes = ["CYLW"]
+frequency = "119.600"
+facility_type = "TWR"
+default_call_sources = ["LW-TWR"]
+profile_id = "CYLW"
+
+[[positions]]
 id = "CYNJ_TWR"
+prefixes = ["CYNJ"]
+frequency = "119.000"
+facility_type = "TWR"
+default_call_sources = ["NJ-TWR"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYNJ_1_TWR"
 prefixes = ["CYNJ"]
 frequency = "119.000"
 facility_type = "TWR"
@@ -247,7 +487,23 @@ default_call_sources = ["PK-TWR"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CYPK_1_TWR"
+prefixes = ["CYPK"]
+frequency = "126.300"
+facility_type = "TWR"
+default_call_sources = ["PK-TWR"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CYQQ_TWR"
+prefixes = ["CYQQ"]
+frequency = "126.200"
+facility_type = "TWR"
+default_call_sources = ["QQ-TWR"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYQQ_1_TWR"
 prefixes = ["CYQQ"]
 frequency = "126.200"
 facility_type = "TWR"
@@ -263,7 +519,23 @@ default_call_sources = ["VR-N-TWR"]
 profile_id = "CYVR"
 
 [[positions]]
+id = "CYVR_N1_TWR"
+prefixes = ["CYVR"]
+frequency = "119.550"
+facility_type = "TWR"
+default_call_sources = ["VR-N-TWR"]
+profile_id = "CYVR"
+
+[[positions]]
 id = "CYVR_O_TWR"
+prefixes = ["CYVR"]
+frequency = "125.650"
+facility_type = "TWR"
+default_call_sources = ["VR-O-TWR"]
+profile_id = "CYVR"
+
+[[positions]]
+id = "CYVR_O1_TWR"
 prefixes = ["CYVR"]
 frequency = "125.650"
 facility_type = "TWR"
@@ -279,7 +551,23 @@ default_call_sources = ["VR-S-TWR"]
 profile_id = "CYVR"
 
 [[positions]]
+id = "CYVR_1_TWR"
+prefixes = ["CYVR"]
+frequency = "118.700"
+facility_type = "TWR"
+default_call_sources = ["VR-S-TWR"]
+profile_id = "CYVR"
+
+[[positions]]
 id = "CYWH_F_TWR"
+prefixes = ["CYWH"]
+frequency = "122.200"
+facility_type = "TWR"
+default_call_sources = ["YWH-FSS"]
+profile_id = "CYYJ"
+
+[[positions]]
+id = "CYWH_F1_TWR"
 prefixes = ["CYWH"]
 frequency = "122.200"
 facility_type = "TWR"
@@ -295,7 +583,23 @@ default_call_sources = ["YWL-FSS"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CYWL_F1_TWR"
+prefixes = ["CYWL"]
+frequency = "122.300"
+facility_type = "TWR"
+default_call_sources = ["YWL-FSS"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CYXC_F_TWR"
+prefixes = ["CYXC"]
+frequency = "122.300"
+facility_type = "TWR"
+default_call_sources = ["YXC-FSS"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYXC_F1_TWR"
 prefixes = ["CYXC"]
 frequency = "122.300"
 facility_type = "TWR"
@@ -311,7 +615,23 @@ default_call_sources = ["XS-TWR"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CYXS_1_TWR"
+prefixes = ["CYXS"]
+frequency = "118.300"
+facility_type = "TWR"
+default_call_sources = ["XS-TWR"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CYXT_F_TWR"
+prefixes = ["CYXT"]
+frequency = "122.000"
+facility_type = "TWR"
+default_call_sources = ["YXT-FSS"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYXT_F1_TWR"
 prefixes = ["CYXT"]
 frequency = "122.000"
 facility_type = "TWR"
@@ -327,7 +647,23 @@ default_call_sources = ["XX-TWR"]
 profile_id = "CYYJ"
 
 [[positions]]
+id = "CYXX_1_TWR"
+prefixes = ["CYXX"]
+frequency = "119.400"
+facility_type = "TWR"
+default_call_sources = ["XX-TWR"]
+profile_id = "CYYJ"
+
+[[positions]]
 id = "CYYD_F_TWR"
+prefixes = ["CYYD"]
+frequency = "122.300"
+facility_type = "TWR"
+default_call_sources = ["YYD-FSS"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYYD_F1_TWR"
 prefixes = ["CYYD"]
 frequency = "122.300"
 facility_type = "TWR"
@@ -343,7 +679,23 @@ default_call_sources = ["YYF-FSS"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CYYF_F1_TWR"
+prefixes = ["CYYF"]
+frequency = "118.500"
+facility_type = "TWR"
+default_call_sources = ["YYF-FSS"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CYYJ_O_TWR"
+prefixes = ["CYYJ"]
+frequency = "119.100"
+facility_type = "TWR"
+default_call_sources = ["YJ-O-TWR"]
+profile_id = "CYYJ"
+
+[[positions]]
+id = "CYYJ_O1_TWR"
 prefixes = ["CYYJ"]
 frequency = "119.100"
 facility_type = "TWR"
@@ -359,7 +711,23 @@ default_call_sources = ["YJ-TWR"]
 profile_id = "CYYJ"
 
 [[positions]]
+id = "CYYJ_1_TWR"
+prefixes = ["CYYJ"]
+frequency = "119.700"
+facility_type = "TWR"
+default_call_sources = ["YJ-TWR"]
+profile_id = "CYYJ"
+
+[[positions]]
 id = "CYZT_F_TWR"
+prefixes = ["CYZT"]
+frequency = "122.200"
+facility_type = "TWR"
+default_call_sources = ["YZT-FSS"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYZT_F1_TWR"
 prefixes = ["CYZT"]
 frequency = "122.200"
 facility_type = "TWR"
@@ -375,7 +743,23 @@ default_call_sources = ["BB-O-TWR"]
 profile_id = "CYVR"
 
 [[positions]]
+id = "CZBB_O1_TWR"
+prefixes = ["CZBB"]
+frequency = "127.600"
+facility_type = "TWR"
+default_call_sources = ["BB-O-TWR"]
+profile_id = "CYVR"
+
+[[positions]]
 id = "CZBB_TWR"
+prefixes = ["CZBB"]
+frequency = "118.100"
+facility_type = "TWR"
+default_call_sources = ["BB-TWR"]
+profile_id = "CYVR"
+
+[[positions]]
+id = "CZBB_1_TWR"
 prefixes = ["CZBB"]
 frequency = "118.100"
 facility_type = "TWR"
@@ -391,7 +775,23 @@ default_call_sources = ["YCD-GND-ADVSY"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CYCD_F1_GND"
+prefixes = ["CYCD"]
+frequency = "122.600"
+facility_type = "GND"
+default_call_sources = ["YCD-GND-ADVSY"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CYLW_GND"
+prefixes = ["CYLW"]
+frequency = "121.700"
+facility_type = "GND"
+default_call_sources = ["LW-GND"]
+profile_id = "CYLW"
+
+[[positions]]
+id = "CYLW_1_GND"
 prefixes = ["CYLW"]
 frequency = "121.700"
 facility_type = "GND"
@@ -407,7 +807,23 @@ default_call_sources = ["NJ-GND"]
 profile_id = "CYYJ"
 
 [[positions]]
+id = "CYNJ_1_GND"
+prefixes = ["CYNJ"]
+frequency = "121.900"
+facility_type = "GND"
+default_call_sources = ["NJ-GND"]
+profile_id = "CYYJ"
+
+[[positions]]
 id = "CYPK_GND"
+prefixes = ["CYPK"]
+frequency = "123.800"
+facility_type = "GND"
+default_call_sources = ["PK-GND"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYPK_1_GND"
 prefixes = ["CYPK"]
 frequency = "123.800"
 facility_type = "GND"
@@ -423,7 +839,23 @@ default_call_sources = ["QQ-GND"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CYQQ_1_GND"
+prefixes = ["CYQQ"]
+frequency = "119.750"
+facility_type = "GND"
+default_call_sources = ["QQ-GND"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CYVR_A_GND"
+prefixes = ["CYVR"]
+frequency = "130.700"
+facility_type = "GND"
+default_call_sources = ["VR-APN"]
+profile_id = "CYVR"
+
+[[positions]]
+id = "CYVR_A1_GND"
 prefixes = ["CYVR"]
 frequency = "130.700"
 facility_type = "GND"
@@ -439,7 +871,23 @@ default_call_sources = ["VR-S-GND"]
 profile_id = "CYVR"
 
 [[positions]]
+id = "CYVR_1_GND"
+prefixes = ["CYVR"]
+frequency = "121.700"
+facility_type = "GND"
+default_call_sources = ["VR-S-GND"]
+profile_id = "CYVR"
+
+[[positions]]
 id = "CYVR_N_GND"
+prefixes = ["CYVR"]
+frequency = "127.150"
+facility_type = "GND"
+default_call_sources = ["VR-N-GND"]
+profile_id = "CYVR"
+
+[[positions]]
+id = "CYVR_N1_GND"
 prefixes = ["CYVR"]
 frequency = "127.150"
 facility_type = "GND"
@@ -455,7 +903,23 @@ default_call_sources = ["VR-PAD-CTL"]
 profile_id = "CYVR"
 
 [[positions]]
+id = "CYVR_P1_GND"
+prefixes = ["CYVR"]
+frequency = "131.970"
+facility_type = "GND"
+default_call_sources = ["VR-PAD-CTL"]
+profile_id = "CYVR"
+
+[[positions]]
 id = "CYXS_GND"
+prefixes = ["CYXS"]
+frequency = "121.900"
+facility_type = "GND"
+default_call_sources = ["XS-GND"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYXS_1_GND"
 prefixes = ["CYXS"]
 frequency = "121.900"
 facility_type = "GND"
@@ -471,7 +935,23 @@ default_call_sources = ["XX-GND"]
 profile_id = "CYYJ"
 
 [[positions]]
+id = "CYXX_1_GND"
+prefixes = ["CYXX"]
+frequency = "121.800"
+facility_type = "GND"
+default_call_sources = ["XX-GND"]
+profile_id = "CYYJ"
+
+[[positions]]
 id = "CYYF_F_GND"
+prefixes = ["CYYF"]
+frequency = "199.998"
+facility_type = "GND"
+default_call_sources = ["YYF-GND-ADVSY"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYYF_F1_GND"
 prefixes = ["CYYF"]
 frequency = "199.998"
 facility_type = "GND"
@@ -487,7 +967,23 @@ default_call_sources = ["YJ-GND"]
 profile_id = "CYYJ"
 
 [[positions]]
+id = "CYYJ_1_GND"
+prefixes = ["CYYJ"]
+frequency = "121.900"
+facility_type = "GND"
+default_call_sources = ["YJ-GND"]
+profile_id = "CYYJ"
+
+[[positions]]
 id = "CZBB_GND"
+prefixes = ["CZBB"]
+frequency = "124.300"
+facility_type = "GND"
+default_call_sources = ["BB-GND"]
+profile_id = "CYVR"
+
+[[positions]]
+id = "CZBB_1_GND"
 prefixes = ["CZBB"]
 frequency = "124.300"
 facility_type = "GND"
@@ -503,7 +999,23 @@ default_call_sources = ["HC-DEL"]
 profile_id = "CYVR"
 
 [[positions]]
+id = "CYHC_1_DEL"
+prefixes = ["CYHC"]
+frequency = "125.350"
+facility_type = "DEL"
+default_call_sources = ["HC-DEL"]
+profile_id = "CYVR"
+
+[[positions]]
 id = "CYKA_DEL"
+prefixes = ["CYKA"]
+frequency = "121.900"
+facility_type = "DEL"
+default_call_sources = ["YKA-DEL"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CYKA_1_DEL"
 prefixes = ["CYKA"]
 frequency = "121.900"
 facility_type = "DEL"
@@ -519,7 +1031,23 @@ default_call_sources = ["VR-DEL"]
 profile_id = "CYVR"
 
 [[positions]]
+id = "CYVR_1_DEL"
+prefixes = ["CYVR"]
+frequency = "121.400"
+facility_type = "DEL"
+default_call_sources = ["VR-DEL"]
+profile_id = "CYVR"
+
+[[positions]]
 id = "CYYJ_DEL"
+prefixes = ["CYYJ"]
+frequency = "126.400"
+facility_type = "DEL"
+default_call_sources = ["YJ-DEL"]
+profile_id = "CYYJ"
+
+[[positions]]
+id = "CYYJ_1_DEL"
 prefixes = ["CYYJ"]
 frequency = "126.400"
 facility_type = "DEL"
@@ -535,7 +1063,23 @@ default_call_sources = ["ZVR-TMU"]
 profile_id = "CZVR"
 
 [[positions]]
+id = "CZVR_1_TMU"
+prefixes = ["CZVR"]
+frequency = "133.700"
+facility_type = "FMP"
+default_call_sources = ["ZVR-TMU"]
+profile_id = "CZVR"
+
+[[positions]]
 id = "CZVR_T_CTR"
+prefixes = ["CZVR"]
+frequency = "133.700"
+facility_type = "CTR"
+default_call_sources = ["ZVR-TMU"]
+profile_id = "CZVR"
+
+[[positions]]
+id = "CZVR_T1_CTR"
 prefixes = ["CZVR"]
 frequency = "133.700"
 facility_type = "CTR"
