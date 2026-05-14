@@ -541,7 +541,3 @@ frequency = "133.700"
 facility_type = "CTR"
 default_call_sources = ["ZVR-TMU"]
 profile_id = "CZVR"
-
-
-
-

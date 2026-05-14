@@ -6,14 +6,13 @@
   "gap": 1,
   "justify_content": "space-evenly",
   "children": [
-
     {
       "direction": "col",
       "height": "150%",
-	  "width": "30rem",
+      "width": "30rem",
       "gap": 0.75,
       "justify_content": "start",
-	  
+
       "children": [
         {
           "label": ["KA [N]", "KAMLOOPS", "132.350"],
@@ -21,115 +20,229 @@
           "color": "cadet",
           "station_id": "ZVR-KA (NORTH)"
         },
-		{
+        {
           "label": ["LW-CTR", "(APP)", "133.500"],
           "size": 8,
           "color": "cadet",
           "station_id": "LW-APP"
         },
-		{ "orientation": "horizontal", "thickness": 2, "color": "#364153"},
-		{
+        { "orientation": "horizontal", "thickness": 2, "color": "#364153" },
+        {
           "label": ["CTR", "SPLITS", "..."],
           "size": 8,
           "color": "cadet",
           "page": {
             "rows": 3,
             "keys": [
-              { "label": ["CV", "COMBINED", "133.700"], "color": "cadet", "station_id": "ZVR-CV" },
-              { "label": ["KA [S]", "KAMLOOPS", "132.350"], "color": "cadet", "station_id": "ZVR-KA (SOUTH)" },
-              { "label": ["XC", "CRANBRK", "134.550"],     "color": "cadet", "station_id": "ZVR-XC" },
-              { "label": ["VW", "EAST", "125.950"],     "color": "cadet", "station_id": "ZVR-VE" },
-              { "label": ["HD", "HAIDA", "128.800"],     "color": "cadet", "station_id": "ZVR-HD" },
-              { "label": ["VN", "NORTH", "134.400"],     "color": "cadet", "station_id": "ZVR-VN" },
-              { "label": ["NK", "NOOTKA", "132.200"],     "color": "cadet", "station_id": "ZVR-NK" },
-              { "label": ["VW", "WEST", "132.900"],     "color": "cadet", "station_id": "ZVR-VW" },
-              { "label": ["VS", "SOUTH", "135.250"],     "color": "cadet", "station_id": "ZVR-VS" },
-              { "label": ["XS", "PR.GRG", "133.800"],     "color": "cadet", "station_id": "ZVR-XS" },
-              { "label": ["NY", "ENDERBY", "135.500"],     "color": "cadet", "station_id": "ZVR-NY" },
-              { "label": ["ZP", "SANDSPIT", "133.400"],     "color": "cadet", "station_id": "ZVR-ZP" }
+              {
+                "label": ["CV", "COMBINED", "133.700"],
+                "color": "cadet",
+                "station_id": "ZVR-CV"
+              },
+              {
+                "label": ["KA [S]", "KAMLOOPS", "132.350"],
+                "color": "cadet",
+                "station_id": "ZVR-KA (SOUTH)"
+              },
+              {
+                "label": ["XC", "CRANBRK", "134.550"],
+                "color": "cadet",
+                "station_id": "ZVR-XC"
+              },
+              {
+                "label": ["VW", "EAST", "125.950"],
+                "color": "cadet",
+                "station_id": "ZVR-VE"
+              },
+              {
+                "label": ["HD", "HAIDA", "128.800"],
+                "color": "cadet",
+                "station_id": "ZVR-HD"
+              },
+              {
+                "label": ["VN", "NORTH", "134.400"],
+                "color": "cadet",
+                "station_id": "ZVR-VN"
+              },
+              {
+                "label": ["NK", "NOOTKA", "132.200"],
+                "color": "cadet",
+                "station_id": "ZVR-NK"
+              },
+              {
+                "label": ["VW", "WEST", "132.900"],
+                "color": "cadet",
+                "station_id": "ZVR-VW"
+              },
+              {
+                "label": ["VS", "SOUTH", "135.250"],
+                "color": "cadet",
+                "station_id": "ZVR-VS"
+              },
+              {
+                "label": ["XS", "PR.GRG", "133.800"],
+                "color": "cadet",
+                "station_id": "ZVR-XS"
+              },
+              {
+                "label": ["NY", "ENDERBY", "135.500"],
+                "color": "cadet",
+                "station_id": "ZVR-NY"
+              },
+              {
+                "label": ["ZP", "SANDSPIT", "133.400"],
+                "color": "cadet",
+                "station_id": "ZVR-ZP"
+              }
             ]
           }
-		  }
+        }
       ]
     },
-	
-	{
-          "direction": "col",
-          "gap": 0.8,
-          "children": [
-            { "label": ["LW-TWR", "119.600"], "size": 8, "color": "steel", "station_id": "LW-TWR" },
-			{ "label": ["LW-GND", "121.700"],  "size": 8, "color": "lavender", "station_id": "LW-GND" },
-			{ "orientation": "horizontal", "thickness": 2, "color": "#364153"},
-			{
+
+    {
+      "direction": "col",
+      "gap": 0.8,
+      "children": [
+        {
+          "label": ["LW-TWR", "119.600"],
+          "size": 8,
+          "color": "steel",
+          "station_id": "LW-TWR"
+        },
+        {
+          "label": ["LW-GND", "121.700"],
+          "size": 8,
+          "color": "lavender",
+          "station_id": "LW-GND"
+        },
+        { "orientation": "horizontal", "thickness": 2, "color": "#364153" },
+        {
           "label": ["CZEG", "..."],
           "size": 8,
           "color": "snow",
           "page": {
             "rows": 1,
             "keys": [
-              { "label": ["CZEG", "FSS", "INOP"]},
-              { "label": ["CZEG", "CTR",  "INOP"]},
-              { "label": ["CZEG", "Q-CTR", "INOP"]}
-				]
-				}
-			}
-          ]
-        },
+              { "label": ["CZEG", "FSS", "INOP"] },
+              { "label": ["CZEG", "CTR", "INOP"] },
+              { "label": ["CZEG", "Q-CTR", "INOP"] }
+            ]
+          }
+        }
+      ]
+    },
     {
-          "direction": "col",
-          "gap": 0.8,
-          "children": [
-            {
+      "direction": "col",
+      "gap": 0.8,
+      "children": [
+        {
           "label": ["CZVR", "TMU"],
           "size": 8,
           "color": "azure",
           "station_id": "ZVR-TMU"
         },
-			{
+        {
           "label": ["FSS", "STATIONS", "..."],
           "size": 8,
           "color": "taupe",
           "page": {
             "rows": 2,
             "keys": [
-              { "label": ["YCD", "Nanaimo"],         "color": "taupe",  "station_id": "YCD-FSS" },
-              { "label": ["YCD GND", "ADVSY"],       "color": "lagoon", "station_id": "YCD-GND-ADVSY" },
-			  { "label": ["YYF", "Penticton"],       "color": "taupe",  "station_id": "YYF-FSS" },
-              { "label": ["YYF GND", "ADVSY"],       "color": "lagoon", "station_id": "YYF-GND-ADVSY" },
-			  { "label": ["YKA", "Kamloops"],        "color": "taupe",  "station_id": "YKA-FSS" },
-			  { "label": ["YKA DEL", "ADVSY"], "color": "lagoon", "station_id": "YKA-DEL" },
-			  { "label": ["YBL", "Campbell", "River"], "color": "taupe",  "station_id": "YBL-FSS" },
-              { "label": ["YCG", "Castlegar"],       "color": "taupe",  "station_id": "YCG-FSS" },
-              { "label": ["YWH", "Victoria", "Hbr"],    "color": "taupe",  "station_id": "YWH-FSS" },
-              { "label": ["YWL", "Williams", "Lake"],   "color": "taupe",  "station_id": "YWL-FSS" },
-              { "label": ["YXC", "Cranbrook"],       "color": "taupe",  "station_id": "YXC-FSS" },
-              { "label": ["YXT", "Terrace"],         "color": "taupe",  "station_id": "YXT-FSS" },
-              { "label": ["YYD", "Smithers"],        "color": "taupe",  "station_id": "YYD-FSS" },
-              { "label": ["YZT", "Port", "Hardy"],      "color": "taupe",  "station_id": "YZT-FSS" },
-			  { "label": ["PACIFIC", "RADIO"],      "color": "taupe",  "station_id": "PACIFIC" },
-			  { "label": []}
+              {
+                "label": ["YCD", "Nanaimo"],
+                "color": "taupe",
+                "station_id": "YCD-FSS"
+              },
+              {
+                "label": ["YCD GND", "ADVSY"],
+                "color": "lagoon",
+                "station_id": "YCD-GND-ADVSY"
+              },
+              {
+                "label": ["YYF", "Penticton"],
+                "color": "taupe",
+                "station_id": "YYF-FSS"
+              },
+              {
+                "label": ["YYF GND", "ADVSY"],
+                "color": "lagoon",
+                "station_id": "YYF-GND-ADVSY"
+              },
+              {
+                "label": ["YKA", "Kamloops"],
+                "color": "taupe",
+                "station_id": "YKA-FSS"
+              },
+              {
+                "label": ["YKA DEL", "ADVSY"],
+                "color": "lagoon",
+                "station_id": "YKA-DEL"
+              },
+              {
+                "label": ["YBL", "Campbell", "River"],
+                "color": "taupe",
+                "station_id": "YBL-FSS"
+              },
+              {
+                "label": ["YCG", "Castlegar"],
+                "color": "taupe",
+                "station_id": "YCG-FSS"
+              },
+              {
+                "label": ["YWH", "Victoria", "Hbr"],
+                "color": "taupe",
+                "station_id": "YWH-FSS"
+              },
+              {
+                "label": ["YWL", "Williams", "Lake"],
+                "color": "taupe",
+                "station_id": "YWL-FSS"
+              },
+              {
+                "label": ["YXC", "Cranbrook"],
+                "color": "taupe",
+                "station_id": "YXC-FSS"
+              },
+              {
+                "label": ["YXT", "Terrace"],
+                "color": "taupe",
+                "station_id": "YXT-FSS"
+              },
+              {
+                "label": ["YYD", "Smithers"],
+                "color": "taupe",
+                "station_id": "YYD-FSS"
+              },
+              {
+                "label": ["YZT", "Port", "Hardy"],
+                "color": "taupe",
+                "station_id": "YZT-FSS"
+              },
+              {
+                "label": ["PACIFIC", "RADIO"],
+                "color": "taupe",
+                "station_id": "PACIFIC"
+              },
+              { "label": [] }
             ]
           }
         },
-		{ "orientation": "horizontal", "thickness": 2, "color": "#364153"},
-			{
+        { "orientation": "horizontal", "thickness": 2, "color": "#364153" },
+        {
           "label": ["ZSE", "..."],
           "size": 8,
           "color": "snow",
           "page": {
             "rows": 1,
             "keys": [
-              { "label": ["ZSE", "INOP"]},
-              { "label": ["ZSE", "INOP"]},
-              { "label": ["ZSE", "INOP"]}
-				]
-				}
-			}
-          ]
+              { "label": ["ZSE", "INOP"] },
+              { "label": ["ZSE", "INOP"] },
+              { "label": ["ZSE", "INOP"] }
+            ]
+          }
         }
-    
-
-   
-
+      ]
+    }
   ]
 }

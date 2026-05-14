@@ -5,12 +5,28 @@ controlled_by = ["CZVR_CTR", "CZVR_1_CTR"]
 [[stations]]
 id = "ZVR-KA (SOUTH)"
 parentid = "ZVR-CV"
-controlled_by = ["CZVR_A_CTR", "CZVR_A1_CTR", "CZVR_C_CTR", "CZVR_C1_CTR", "CZVR_E_CTR", "CZVR_E1_CTR"]
+controlled_by = [
+  "CZVR_A_CTR",
+  "CZVR_A1_CTR",
+  "CZVR_C_CTR",
+  "CZVR_C1_CTR",
+  "CZVR_E_CTR",
+  "CZVR_E1_CTR",
+]
 
 [[stations]]
 id = "ZVR-KA (NORTH)"
 parentid = "ZVR-CV"
-controlled_by = ["CZVR_A_CTR", "CZVR_A1_CTR", "CZVR_X_CTR", "CZVR_X1_CTR", "CZVR_N_CTR", "CZVR_N1_CTR", "CZVR_E_CTR", "CZVR_E1_CTR"]
+controlled_by = [
+  "CZVR_A_CTR",
+  "CZVR_A1_CTR",
+  "CZVR_X_CTR",
+  "CZVR_X1_CTR",
+  "CZVR_N_CTR",
+  "CZVR_N1_CTR",
+  "CZVR_E_CTR",
+  "CZVR_E1_CTR",
+]
 
 [[stations]]
 id = "ZVR-XC"
@@ -44,7 +60,14 @@ controlled_by = ["CZVR_N_CTR", "CZVR_N1_CTR"]
 [[stations]]
 id = "ZVR-VS"
 parentid = "ZVR-CV"
-controlled_by = ["CZVR_S_CTR", "CZVR_S1_CTR", "CZVR_C_CTR", "CZVR_C1_CTR", "CZVR_E_CTR", "CZVR_E1_CTR"]
+controlled_by = [
+  "CZVR_S_CTR",
+  "CZVR_S1_CTR",
+  "CZVR_C_CTR",
+  "CZVR_C1_CTR",
+  "CZVR_E_CTR",
+  "CZVR_E1_CTR",
+]
 
 [[stations]]
 id = "ZVR-VW"
