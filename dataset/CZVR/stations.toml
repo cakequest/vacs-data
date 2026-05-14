@@ -195,7 +195,7 @@ controlled_by = ["CYVR_O_TWR", "CYVR_O1_TWR"]
 
 [[stations]]
 id = "VR-S-TWR"
-parent_id = "VR-S-TWR"
+parent_id = "VR-S-DEP"
 controlled_by = ["CYVR_TWR", "CYVR_1_TWR"]
 
 [[stations]]
@@ -294,7 +294,7 @@ controlled_by = ["CYVR_A_GND", "CYVR_A1_GND"]
 
 [[stations]]
 id = "VR-S-GND"
-parent_id = "VR-TWR"
+parent_id = "VR-S-TWR"
 controlled_by = ["CYVR_GND", "CYVR_1_GND", "CYVR_N_GND", "CYVR_N1_GND"]
 
 [[stations]]
@@ -344,7 +344,7 @@ controlled_by = ["CYKA_DEL", "CYKA_1_DEL"]
 
 [[stations]]
 id = "VR-DEL"
-parent_id = "VR-GND"
+parent_id = "VR-S-GND"
 controlled_by = ["CYVR_DEL", "CYVR_1_DEL"]
 
 [[stations]]
