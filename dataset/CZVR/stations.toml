@@ -87,7 +87,7 @@ controlled_by = ["CZVR_Y_CTR", "CZVR_Y1_CTR", "CZVR_E_CTR", "CZVR_E1_CTR"]
 [[stations]]
 id = "ZVR-ZP"
 parent_id = "ZVR-CV"
-controlled_by = ["CZVR_Z_CTR", "CZVR_Z_CTR", "CZVR_W_CTR", "CZVR_W_CTR"]
+controlled_by = ["CZVR_Z_CTR", "CZVR_Z1_CTR", "CZVR_W_CTR", "CZVR_W1_CTR"]
 
 [[stations]]
 id = "QQ-DEP"
