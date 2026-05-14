@@ -320,7 +320,7 @@ controlled_by = ["CYXX_GND", "CYXX_1_GND"]
 [[stations]]
 id = "YYF-GND-ADVSY"
 parent_id = "YYF-FSS"
-controlled_by = ["CYYF_F_GND", "CYFF_F1_GND"]
+controlled_by = ["CYYF_F_GND", "CYYF_F1_GND"]
 
 [[stations]]
 id = "YJ-GND"
