@@ -93,7 +93,7 @@
           "label": ["PACIFIC", "RADIO", "126.700"],
           "size": 7,
           "color": "taupe",
-          "station_id": "PACIFIC"
+          "station_id": "ZVR-PACIFIC"
         },
         {
           "label": ["FSS", "STATIONS", "..."],
@@ -105,72 +105,72 @@
               {
                 "label": ["YCD", "Nanaimo"],
                 "color": "taupe",
-                "station_id": "YCD-FSS"
+                "station_id": "CYCD-FSS"
               },
               {
                 "label": ["YCD GND", "ADVSY"],
                 "color": "lagoon",
-                "station_id": "YCD-GND-ADVSY"
+                "station_id": "CYCD-GND-ADVSY"
               },
               {
                 "label": ["YYF", "Penticton"],
                 "color": "taupe",
-                "station_id": "YYF-FSS"
+                "station_id": "CYYF-FSS"
               },
               {
                 "label": ["YYF GND", "ADVSY"],
                 "color": "lagoon",
-                "station_id": "YYF-GND-ADVSY"
+                "station_id": "CYYF-GND-ADVSY"
               },
               {
                 "label": ["YKA", "Kamloops"],
                 "color": "taupe",
-                "station_id": "YKA-FSS"
+                "station_id": "CYKA-FSS"
               },
               {
                 "label": ["YKA DEL", "ADVSY"],
                 "color": "lagoon",
-                "station_id": "YKA-DEL"
+                "station_id": "CYKA-DEL"
               },
               {
                 "label": ["YBL", "Campbell", "River"],
                 "color": "taupe",
-                "station_id": "YBL-FSS"
+                "station_id": "CYBL-FSS"
               },
               {
                 "label": ["YCG", "Castlegar"],
                 "color": "taupe",
-                "station_id": "YCG-FSS"
+                "station_id": "CYCG-FSS"
               },
               {
                 "label": ["YWH", "Victoria", "Hbr"],
                 "color": "taupe",
-                "station_id": "YWH-FSS"
+                "station_id": "CYWH-FSS"
               },
               {
                 "label": ["YWL", "Williams", "Lake"],
                 "color": "taupe",
-                "station_id": "YWL-FSS"
+                "station_id": "CYWL-FSS"
               },
               {
                 "label": ["YXC", "Cranbrook"],
                 "color": "taupe",
-                "station_id": "YXC-FSS"
+                "station_id": "CYXC-FSS"
               },
               {
                 "label": ["YXT", "Terrace"],
                 "color": "taupe",
-                "station_id": "YXT-FSS"
+                "station_id": "CYXT-FSS"
               },
               {
                 "label": ["YYD", "Smithers"],
                 "color": "taupe",
-                "station_id": "YYD-FSS"
+                "station_id": "CYYD-FSS"
               },
               {
                 "label": ["YZT", "Port", "Hardy"],
                 "color": "taupe",
-                "station_id": "YZT-FSS"
+                "station_id": "CYZT-FSS"
               }
             ]
           }
@@ -195,25 +195,25 @@
               "label": ["YJ-TWR", "INNER", "119.700"],
               "size": 8,
               "color": "lagoon",
-              "station_id": "YJ-TWR"
+              "station_id": "CYYJ-TWR"
             },
             {
               "label": ["YJ-TWR", "OUTER", "119.100"],
               "size": 8,
               "color": "lagoon",
-              "station_id": "YJ-O-TWR"
+              "station_id": "CYYJ-O-TWR"
             },
             {
               "label": ["VR-TWR", "SOUTH", "118.700"],
               "size": 8,
               "color": "lagoon",
-              "station_id": "VR-S-TWR"
+              "station_id": "CYVR-S-TWR"
             },
             {
               "label": ["VR-TWR", "OUTER", "125.650"],
               "size": 8,
               "color": "lagoon",
-              "station_id": "VR-O-TWR"
+              "station_id": "CYVR-O-TWR"
             }
           ]
         },
@@ -225,25 +225,25 @@
               "label": ["YJ-DEL", "124.600"],
               "size": 8,
               "color": "steel",
-              "station_id": "YJ-DEL"
+              "station_id": "CYYJ-DEL"
             },
             {
               "label": ["YJ-GND", "121.90"],
               "size": 8,
               "color": "steel",
-              "station_id": "YJ-GND"
+              "station_id": "CYYJ-GND"
             },
             {
               "label": ["YJ-APP", "125.450"],
               "size": 8,
               "color": "lavender",
-              "station_id": "YJ-APP"
+              "station_id": "CYYJ-APP"
             },
             {
               "label": ["VR-APP", "OUTER", "128.600"],
               "size": 8,
               "color": "lavender",
-              "station_id": "VR-O-APP"
+              "station_id": "CYVR-O-APP"
             }
           ]
         },
@@ -256,25 +256,25 @@
               "label": ["VR-TML", "VFR", "125.200"],
               "size": 8,
               "color": "lavender",
-              "station_id": "VR-TML"
+              "station_id": "CYVR-TML"
             },
             {
               "label": ["VR-APP", "INNER", "133.100"],
               "size": 8,
               "color": "lavender",
-              "station_id": "VR-I-APP"
+              "station_id": "CYVR-I-APP"
             },
             {
               "label": ["VR-DEP", "SOUTH", "132.300"],
               "size": 8,
               "color": "lavender",
-              "station_id": "VR-S-DEP"
+              "station_id": "CYVR-S-DEP"
             },
             {
               "label": ["QQ-APP", "NORTH", "126.125"],
               "size": 8,
               "color": "lavender",
-              "station_id": "QQ-APP"
+              "station_id": "CYQQ-APP"
             }
           ]
         }
@@ -296,38 +296,38 @@
           "page": {
             "rows": 2,
             "keys": [
-              { "label": ["BB-TWR"], "color": "mint", "station_id": "BB-TWR" },
+              { "label": ["BB-TWR"], "color": "mint", "station_id": "CZBB-TWR" },
               {
                 "label": ["BB-GND"],
                 "color": "lagoon",
-                "station_id": "BB-GND"
+                "station_id": "CZBB-GND"
               },
               {
                 "label": ["BB-O-TWR"],
                 "color": "mint",
-                "station_id": "BB-O-TWR"
+                "station_id": "CZBB-O-TWR"
               },
               { "label": [] },
-              { "label": ["HC-TWR"], "color": "mint", "station_id": "HC-TWR" },
+              { "label": ["HC-TWR"], "color": "mint", "station_id": "CYHC-TWR" },
               {
                 "label": ["HC-DEL"],
                 "color": "lagoon",
-                "station_id": "HC-DEL"
+                "station_id": "CYHC-DEL"
               },
-              { "label": ["NJ-TWR"], "color": "mint", "station_id": "NJ-TWR" },
+              { "label": ["NJ-TWR"], "color": "mint", "station_id": "CYNJ-TWR" },
               {
                 "label": ["NJ-GND"],
                 "color": "lagoon",
-                "station_id": "NJ-GND"
+                "station_id": "CYNJ-GND"
               },
-              { "label": ["PK-TWR"], "color": "mint", "station_id": "PK-TWR" },
+              { "label": ["PK-TWR"], "color": "mint", "station_id": "CYPK-TWR" },
               {
                 "label": ["PK-GND"],
                 "color": "lagoon",
-                "station_id": "PK-GND"
+                "station_id": "CYPK-GND"
               },
-              { "label": ["XX-TWR"], "color": "mint", "station_id": "XX-TWR" },
-              { "label": ["XX-GND"], "color": "lagoon", "station_id": "XX-GND" }
+              { "label": ["XX-TWR"], "color": "mint", "station_id": "CYXX-TWR" },
+              { "label": ["XX-GND"], "color": "lagoon", "station_id": "CYXX-GND" }
             ]
           }
         },
@@ -342,29 +342,29 @@
               {
                 "label": ["VR-TWR", "SOUTH"],
                 "color": "mint",
-                "station_id": "VR-S-GND"
+                "station_id": "CYVR-S-GND"
               },
               {
                 "label": ["VR-GND", "SOUTH"],
                 "color": "azure",
-                "station_id": "VR-S-GND"
+                "station_id": "CYVR-S-GND"
               },
               {
                 "label": ["VR-TWR", "NORTH"],
                 "color": "mint",
-                "station_id": "VR-N-TWR"
+                "station_id": "CYVR-N-TWR"
               },
               {
                 "label": ["VR-GND", "NORTH"],
                 "color": "azure",
-                "station_id": "VR-N-GND"
+                "station_id": "CYVR-N-GND"
               },
               {
                 "label": ["VR-TWR", "OUTER"],
                 "color": "mint",
-                "station_id": "VR-O-TWR"
+                "station_id": "CYVR-O-TWR"
               },
-              { "label": ["VR-DEL"], "color": "lagoon", "station_id": "VR-DEL" }
+              { "label": ["VR-DEL"], "color": "lagoon", "station_id": "CYVR-DEL" }
             ]
           }
         },
@@ -376,10 +376,10 @@
           "page": {
             "rows": 1,
             "keys": [
-              { "label": ["QQ-APP"], "color": "azure", "station_id": "QQ-APP" },
-              { "label": ["QQ-DEP"], "color": "azure", "station_id": "QQ-DEP" },
-              { "label": ["QQ-TWR"], "color": "mint", "station_id": "QQ-TWR" },
-              { "label": ["QQ-GND"], "color": "lagoon", "station_id": "QQ-GND" }
+              { "label": ["QQ-APP"], "color": "azure", "station_id": "CYQQ-APP" },
+              { "label": ["QQ-DEP"], "color": "azure", "station_id": "CYQQ-DEP" },
+              { "label": ["QQ-TWR"], "color": "mint", "station_id": "CYQQ-TWR" },
+              { "label": ["QQ-GND"], "color": "lagoon", "station_id": "CYQQ-GND" }
             ]
           }
         },
