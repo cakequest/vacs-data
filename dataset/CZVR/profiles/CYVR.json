@@ -300,7 +300,11 @@
           "page": {
             "rows": 2,
             "keys": [
-              { "label": ["BB-TWR"], "color": "mint", "station_id": "CZBB-TWR" },
+              {
+                "label": ["BB-TWR"],
+                "color": "mint",
+                "station_id": "CZBB-TWR"
+              },
               {
                 "label": ["BB-GND"],
                 "color": "lagoon",
@@ -312,26 +316,46 @@
                 "station_id": "CZBB-O-TWR"
               },
               { "label": [] },
-              { "label": ["HC-TWR"], "color": "mint", "station_id": "CYHC-TWR" },
+              {
+                "label": ["HC-TWR"],
+                "color": "mint",
+                "station_id": "CYHC-TWR"
+              },
               {
                 "label": ["HC-DEL"],
                 "color": "lagoon",
                 "station_id": "CYHC-DEL"
               },
-              { "label": ["NJ-TWR"], "color": "mint", "station_id": "CYNJ-TWR" },
+              {
+                "label": ["NJ-TWR"],
+                "color": "mint",
+                "station_id": "CYNJ-TWR"
+              },
               {
                 "label": ["NJ-GND"],
                 "color": "lagoon",
                 "station_id": "CYNJ-GND"
               },
-              { "label": ["PK-TWR"], "color": "mint", "station_id": "CYPK-TWR" },
+              {
+                "label": ["PK-TWR"],
+                "color": "mint",
+                "station_id": "CYPK-TWR"
+              },
               {
                 "label": ["PK-GND"],
                 "color": "lagoon",
                 "station_id": "CYPK-GND"
               },
-              { "label": ["XX-TWR"], "color": "mint", "station_id": "CYXX-TWR" },
-              { "label": ["XX-GND"], "color": "lagoon", "station_id": "CYXX-GND" }
+              {
+                "label": ["XX-TWR"],
+                "color": "mint",
+                "station_id": "CYXX-TWR"
+              },
+              {
+                "label": ["XX-GND"],
+                "color": "lagoon",
+                "station_id": "CYXX-GND"
+              }
             ]
           }
         },
@@ -342,7 +366,11 @@
           "page": {
             "rows": 1,
             "keys": [
-              { "label": ["YJ-APP"], "color": "azure", "station_id": "CYYJ-APP" },
+              {
+                "label": ["YJ-APP"],
+                "color": "azure",
+                "station_id": "CYYJ-APP"
+              },
               {
                 "label": ["YJ-TWR", "INNER"],
                 "color": "mint",
@@ -353,7 +381,11 @@
                 "color": "mint",
                 "station_id": "CYYJ-O-TWR"
               },
-              { "label": ["YJ-GND"], "color": "lagoon", "station_id": "CYYJ-GND" }
+              {
+                "label": ["YJ-GND"],
+                "color": "lagoon",
+                "station_id": "CYYJ-GND"
+              }
             ]
           }
         },
@@ -364,9 +396,21 @@
           "page": {
             "rows": 1,
             "keys": [
-              { "label": ["QQ-APP"], "color": "azure", "station_id": "CYQQ-APP" },
-              { "label": ["QQ-TWR"], "color": "mint", "station_id": "CYQQ-TWR" },
-              { "label": ["QQ-GND"], "color": "lagoon", "station_id": "CYQQ-GND" }
+              {
+                "label": ["QQ-APP"],
+                "color": "azure",
+                "station_id": "CYQQ-APP"
+              },
+              {
+                "label": ["QQ-TWR"],
+                "color": "mint",
+                "station_id": "CYQQ-TWR"
+              },
+              {
+                "label": ["QQ-GND"],
+                "color": "lagoon",
+                "station_id": "CYQQ-GND"
+              }
             ]
           }
         }
