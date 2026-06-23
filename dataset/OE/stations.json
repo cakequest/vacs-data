@@ -26,8 +26,16 @@
       "parent_id": "OERD_1_CTR",
       "controlled_by": ["OERK_N_CTR"]
     },
-
-    { "id": "OEJD_1_CTR", "controlled_by": ["OEJD_1_CTR"] },
+    {
+      "id": "OEJD_1_CTR",
+      "parent_id": "GULF_W_FSS",
+      "controlled_by": ["OEJD_1_CTR"]
+    },
+    {
+      "id": "OEJD_2_CTR",
+      "parent_id": "OEJD_1_CTR",
+      "controlled_by": ["OEJD_2_CTR"]
+    },
     {
       "id": "OEJD_N_CTR",
       "parent_id": "OEJD_1_CTR",
@@ -35,12 +43,12 @@
     },
     {
       "id": "OEJD_S_CTR",
-      "parent_id": "OEJD_1_CTR",
+      "parent_id": "OEJD_2_CTR",
       "controlled_by": ["OEJD_S_CTR"]
     },
     {
       "id": "OEJD_W_CTR",
-      "parent_id": "OEJD_1_CTR",
+      "parent_id": "OEJD_2_CTR",
       "controlled_by": ["OEJD_W_CTR"]
     },
     {
@@ -55,19 +63,19 @@
     },
     {
       "id": "OEJD_C_CTR",
-      "parent_id": "OEJD_1_CTR",
+      "parent_id": "OEJD_2_CTR",
       "controlled_by": ["OEJD_C_CTR"]
     },
 
     {
-      "id": "OEJN_1_CTR",
+      "id": "OEJN_W_CTR",
       "parent_id": "OEJD_1_CTR",
-      "controlled_by": ["OEJN_1_CTR"]
+      "controlled_by": ["OEJN_W_CTR"]
     },
 
     {
       "id": "OEJN_APP",
-      "parent_id": "OEJN_1_CTR",
+      "parent_id": "OEJN_W_CTR",
       "controlled_by": ["OEJN_APP"]
     },
     {
@@ -101,7 +109,11 @@
       "parent_id": "OEJN_APP",
       "controlled_by": ["OEJN_C_TWR"]
     },
-
+    {
+      "id": "OEJN_E_RMP",
+      "parent_id": "OEJN_E_GND",
+      "controlled_by": ["OEJN_E_RMP"]
+    },
     {
       "id": "OEJN_E_GND",
       "parent_id": "OEJN_W_TWR",
